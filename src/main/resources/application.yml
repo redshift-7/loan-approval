@@ -1,0 +1,10 @@
+app:
+  statistics:
+    period: 60s
+spring:
+  jackson:
+    deserialization:
+      USE_BIG_DECIMAL_FOR_FLOATS: true
+server:
+  error:
+    include-stacktrace: never
