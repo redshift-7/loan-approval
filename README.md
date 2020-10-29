@@ -1,4 +1,4 @@
-# Loan Approval
+# Loan Approval [![Build Status](https://travis-ci.com/redshift-7/loan-approval.svg?branch=dev)](https://travis-ci.com/redshift-7/loan-approval)
 
 Create a RESTful service that would enable loan preparators to send loan contracts to loan managers for approval. Loan preparator must specify the customer’s ID and the amount that customer wants to loan. 
 Loan preparator must also specify which managers need to approve it . After the specified managers have added their approvals the contract will be automatically sent to the customer.
